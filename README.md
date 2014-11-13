@@ -3,6 +3,8 @@ measure-list
 
 Map codes to unit of measure names and vice versa.
 
+Uses data from http://data.okfn.org/data/measure-list
+
 # example 
 
 ``` js
@@ -47,7 +49,7 @@ Returns an array of all measure information, in the same format as it gets impor
 # install
 
 ``` cli
-npm install measure-list
+npm install unitofmeasure
 ```
 
 # license
