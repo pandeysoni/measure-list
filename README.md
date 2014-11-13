@@ -1,4 +1,4 @@
-country-list
+measure-list
 ============
 
 Map codes to unit of measure names and vice versa.
