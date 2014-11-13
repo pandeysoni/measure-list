@@ -3,8 +3,6 @@ measure-list
 
 Map codes to unit of measure names and vice versa.
 
-Uses data from http://data.okfn.org/data/measure-list
-
 # example 
 
 ``` js
