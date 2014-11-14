@@ -1,6 +1,6 @@
 {
-  "name": "unitOfMeasure-list",
-  "version": "0.0.3",
+  "name": "unitofmeasure",
+  "version": "0.0.5",
   "description": "codes to measure name and vice versa.",
   "main": "measure-list.js",
   "directories": {

@@ -6,7 +6,7 @@ Map codes to unit of measure names and vice versa.
 # example 
 
 ``` js
-var measures = require('measure-list')();
+var measures = require('unitofmeasure')();
 
 console.log(measures.getName('LB')); // Pound
 console.log(measures.getCode('Pound')); // LB
@@ -17,7 +17,7 @@ console.log(measures.getCode('Pound')); // LB
 Usage:
 
 ```
-var measures = require('measure-list')();
+var measures = require('unitofmeasure')();
 ```
 All input is case-insensitive.
 
